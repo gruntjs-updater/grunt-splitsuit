@@ -34,9 +34,12 @@
     "css-parse": "~1.7.0"
   },
   "peerDependencies": {
-    "grunt": "~0.4.2"
+    "grunt": ">=0.4.0"
   },
   "keywords": [
-    "gruntplugin", "suit", "suitcss", "responsive"
+    "gruntplugin",
+    "suit",
+    "suitcss",
+    "responsive"
   ]
 }
